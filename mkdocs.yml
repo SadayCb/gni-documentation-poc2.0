@@ -1,0 +1,5 @@
+site_name: GNI — LOAN_API Documentation
+nav:
+  - Home: index.md
+  - API Reference: api/loan-api.md
+  - Review Notes: review-notes.md
